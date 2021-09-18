@@ -67,7 +67,7 @@ const Index=props=>{
               <Input
                 prefix={<LockOutlined className="site-form-item-icon" style={{marginRight:'7px',color:'#999'}} />}
                 type="password"
-                placeholder="password"
+                placeholder="密码"
               />
             </Form.Item>
             <Form.Item>
